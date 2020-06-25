@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60153773405",
+    "firebase_url": "https://proximitynotifier.firebaseio.com",
+    "project_id": "proximitynotifier",
+    "storage_bucket": "proximitynotifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60153773405:android:e32063330bf8e70595fcb4",
+        "android_client_info": {
+          "package_name": "com.example.proximitynotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60153773405-pghphira304ik59a19s5jqnb4rghitjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proximitynotifier",
+            "certificate_hash": "376ebc8fee6a4aa959ae8b922e435f29421b0829"
+          }
+        },
+        {
+          "client_id": "60153773405-gisogvggbt9hh1ibkd5gjfsfovv3u87s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEyumr9A1RpFSybiHkHpLlGdYf_Jsnas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60153773405-gisogvggbt9hh1ibkd5gjfsfovv3u87s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

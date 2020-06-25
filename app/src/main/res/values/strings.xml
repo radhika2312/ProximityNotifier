@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProximityNotifier</string>
+    <string name="access_token">pk.eyJ1IjoicmphbmtpdCIsImEiOiJja2JxemwyOHoycmYyMnJwdnl2OWJmN2FhIn0.VdI8Beyk6GU8sxYDUSQKvw</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
